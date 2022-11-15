@@ -1,7 +1,7 @@
 .LaunchList {
   height: 100vh;
   overflow: hidden auto;
-  background-color: #ececec;
+  background-color: #F7E8E2;
   width: 300px;
   padding-left: 20px;
   padding-right: 20px;
@@ -16,6 +16,6 @@
 .LaunchList__item {
   padding-top: 20px;
   padding-bottom: 20px;
-  border-top: 1px solid #919191;
+  border-top: 1px solid #FDCEBB;
   cursor: pointer;
 }
